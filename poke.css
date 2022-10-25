@@ -1,0 +1,91 @@
+.hide {
+    display:none;
+}
+
+.pokedex {
+    border: 3px solid #910000;
+    background-color: red;
+    margin-top:5% !important;
+}
+
+.blueCircle {
+    border-radius: 100px;
+    border: 2px solid #003275;
+    background-color: #0050d5;
+    padding: 10px 20px;
+    margin-top: 100px;
+    display: inline-block;
+    height: 43px;
+    margin-left: 16px;
+    margin-bottom: 40px;
+
+}
+
+.greenCircle {
+    border-radius: 100px;
+    border: 2px solid #025c00;
+    background-color: #04b700;
+    padding: 11px 10px;
+    margin-top: 100px;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+.yellowCircle {
+    border-radius: 100px;
+    border: 2px solid #887600;
+    background-color: #f5d500;
+    padding: 11px 10px;
+    margin-top: 100px;
+    display: inline-block;
+    margin-bottom: 40px;
+
+}
+
+
+.pokedex .col-6 {
+    padding: 0px 0px 260px !important;
+}
+
+.pokedex .pokeInfoContainer {
+    padding-top:160px !important;
+}
+
+.pokeInfo {
+    margin-top: 10%;
+    background: #585858;
+    border: 10px solid #d0d0d0;
+    padding: 20px;
+    width: 90%;
+    font-weight:bold;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.pokeInfoContainer {
+    border-left: 10px solid #910000;
+}
+
+#generatePokemon {
+    background-color: 006cff;
+    color: white;
+    font-weight:bold;
+    border: 2px solid #003275;
+    background-color: #0050d5;
+    border-radius: 14px;
+    display:block;
+    width:40%;
+    text-align: center;
+    margin:auto;
+    margin-top:20px;
+
+}
+
+.pokemonImg {
+    min-height: 300px;
+    margin:auto;
+    display:block;
+    background: #585858;
+    border: 10px solid #d0d0d0;
+    
+}
